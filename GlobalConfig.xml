@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<GlobalSettings>
+
+    <Platform>Android</Platform>
+    <OSNAME>macOS</OSNAME>
+    <ImplicitWait>5</ImplicitWait>
+
+    <PlatformDetails>
+        <Android>
+            <PlatformVersion>8.1.0</PlatformVersion>
+            <DeviceName>Pixel API 27</DeviceName>
+            <UDID>emulator-5554</UDID>
+            <AppActivity>com.etergo.techassessment.MainActivity</AppActivity>
+            <PackageName>com.etergo.techassessment</PackageName>
+            <App>/Users/nirmalkumar/Documents/Etergo/DriverFiles/Android_apk/app-debug.apk</App>
+            <Orientation>PORTRAIT</Orientation>
+            <FullReset>True</FullReset>
+        </Android>
+        <iOS>
+            <PlatformVersion>iOS Version</PlatformVersion>
+            <DeviceName>iPhone</DeviceName>
+            <UDID>TBD</UDID>
+            <AppActivity>TBD</AppActivity>
+            <PackageName>TBD</PackageName>
+            <App>/Users/nirmalkumar/Documents/ETERGO_MOBILE AUTOMATION/DriverFiles/iOS_app</App>
+            <Orientation>PORTRAIT</Orientation>
+            <FullReset>True</FullReset>
+        </iOS>
+    </PlatformDetails>
+
+</GlobalSettings>
